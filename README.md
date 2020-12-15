@@ -27,3 +27,6 @@ Se aplicaron varios controles para impedir errores provocados por el usuario, si
 # Instalación / Prueba
 * Para probar el sistema, con algunos datos cargados y las configuraciones ya realizadas, simplemente descargar y descomprimir el archivo **CLUB Portable con muestras.rar** y ejecutar **CLUB.exe**
 * Para una instalación limpia, ejecutar **Instalador CLUB Managemsyst.exe**. Luego de la instalación seguir los pasos indicados en **CLUB Manual de Sistema.pdf**
+
+# Autor
+Emiliano González - emiliano_g06@hotmail.com
