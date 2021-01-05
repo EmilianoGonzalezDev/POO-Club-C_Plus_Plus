@@ -1,4 +1,4 @@
-# POO-Club
+# POO-Club (C++)
 #### Proyecto final de 2do año para la materia Programación Orientada a Objetos. Creado en 2016 utilizando Embarcadero C++ Builder.
 
 ###### Sistema de gestión para un club deportivo ficticio que permite:
