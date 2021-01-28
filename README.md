@@ -20,13 +20,8 @@
 # Detalles
 Proyecto enfocado en comprender y practicar los conceptos de la programación orientada a objetos y la utilización de archivos en C++ (no siendo permitido el uso de bases de datos).
 
-El sistema debió ser pensado para un usuario totalmente novato, por lo que presenta una cantidad alta de carteles de información en los diferentes pasos que realiza el usuario.
-
-Se aplicaron varios controles para impedir errores provocados por el usuario, sin embargo, al ser un proyecto académico de 2do año, no cuenta en su totalidad con buenas prácticas de programación, así como puede contener errores básicos.
-
 # Instalación / Prueba
-* Para probar el sistema, con algunos datos cargados y las configuraciones ya realizadas, simplemente descargar y descomprimir el archivo **CLUB Portable con muestras.rar** y ejecutar **CLUB.exe**
-* Para una instalación limpia, ejecutar **Instalador CLUB Managemsyst.exe**. Luego de la instalación seguir los pasos indicados en **CLUB Manual de Sistema.pdf**
+* Ejecutar **Instalador CLUB Managemsyst.exe**. Luego de la instalación seguir los pasos indicados en **CLUB Manual de Sistema.pdf**
 
 # Autor
 Emiliano González - emiliano_g06@hotmail.com
